@@ -14,7 +14,7 @@ This is my personal portfolio designed and developed using **Framer**. It showca
 - Figma (Design Planning)
 - Custom Interactions
 
-## 🖼 Screenshots
+## Screenshots
 
 ![Homepage](assets/homepage.png)
 ![Projects](assets/projects.png)
