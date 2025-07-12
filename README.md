@@ -1,7 +1,7 @@
 # Portfolio
 # Framer Portfolio – Naga Sai Renuka Gayatri
 
-🚀 **Live Preview**: [https://sleepy-customer-187988.framer.app](https://sleepy-customer-187988.framer.app)
+ **Live Preview**: [https://sleepy-customer-187988.framer.app](https://sleepy-customer-187988.framer.app)
 
 This is my personal portfolio designed and developed using **Framer**. It showcases:
 - UI/UX skills
@@ -9,12 +9,12 @@ This is my personal portfolio designed and developed using **Framer**. It showca
 - Responsive layout
 - Project showcases and work experience
 
-## 🔧 Tools Used
+##  Tools Used
 - Framer (Visual Editor & Prototyping)
 - Figma (Design Planning)
 - Custom Interactions
 
-## 🖼️ Screenshots
+## 🖼 Screenshots
 
 ![Homepage](assets/homepage.png)
 ![Projects](assets/projects.png)
